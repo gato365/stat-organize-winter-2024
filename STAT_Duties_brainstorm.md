@@ -35,4 +35,4 @@ Grade Check-Ins - Sunday [Every] - Edward
 Grade Labs - Sunday [Every] - Edward
 Grade Midterms - Sunday [2/10, 3/2, 3/22] - Immanuel
 Grade Projects - Sunday [3/20] - Immanuel
-Make Notes for Shiny - [1/22, 1/23, 1/24, 1/25, 1/26]
+Make Notes for Shiny - [1/22, 1/23, 1/24, 1/25, 1/26]  - Immanuel
