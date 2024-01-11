@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Weekly Tasks Schedule</title>
+    <script src="schedule.js"></script>
+</head>
+<body>
+    <h1>Weekly Tasks Schedule</h1>
+
+    <label for="weekSelect">Select Week:</label>
+    <select id="weekSelect" onchange="loadTasks()">
+        <!-- Options will be added dynamically -->
+    </select>
+
+    <label for="classSelect">Select Class:</label>
+    <select id="classSelect" onchange="loadTasks()">
+        <option value="STAT 252">STAT 252</option>
+        <option value="STAT 331">STAT 331</option>
+    </select>
+
+    <div id="tasksContainer">
+        <!-- Tasks will be displayed here -->
+    </div>
+</body>
+</html>
