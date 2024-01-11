@@ -1,0 +1,484 @@
+{
+    "STAT 252": {
+        "2024-01-08": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-15": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-22": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-29": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-05": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-12": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-19": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-26": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-04": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-11": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-18": [
+            {
+                "task": "Publish Weeks Module",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Review/Edit Notes & Key",
+                "date": "Sunday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Grade Thursday Quiz",
+                "dates": [
+                    "02/01",
+                    "02/15",
+                    "02/29",
+                    "03/14"
+                ],
+                "person": "Immanuel"
+            }
+        ]
+    },
+    "STAT 331": {
+        "2024-01-08": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-15": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-22": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-01-29": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-05": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-12": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-19": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-02-26": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-04": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-11": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ],
+        "2024-03-18": [
+            {
+                "task": "Skim Textbook",
+                "date": "Saturday",
+                "frequency": "Every",
+                "person": "Immanuel"
+            },
+            {
+                "task": "Make Notes for Shiny",
+                "dates": [
+                    "01/22",
+                    "01/23",
+                    "01/24",
+                    "01/25",
+                    "01/26"
+                ],
+                "person": "Immanuel"
+            }
+        ]
+    },
+    "Final Exam Week": {
+        "start": "2024-03-18",
+        "end": "2024-03-22",
+        "tasks": []
+    }
+}
