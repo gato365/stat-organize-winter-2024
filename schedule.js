@@ -10,10 +10,17 @@ async function loadJSON(url) {
         return null;
     }
 }
+
+function getWeekRange(selectedDate) {
+    const startDate = new Date(selectedDate);
+    let endDate = new Date(startDate);
+    endDate.setDate(endDate.getDate() + 6); // Add 6 days to get the end date of the week
+
+    return { startDate, endDate };
+}
+
 async function loadTasks() {
     let scheduleData = await loadJSON('tasks-winter-2024.json');
-
-
 
     if (!scheduleData) {
         console.error('Failed to load schedule data.');
@@ -24,18 +31,13 @@ async function loadTasks() {
     let selectedClass = document.getElementById('classSelect').value;
     let tasksTable = document.getElementById('tasksTable').getElementsByTagName('tbody')[0];
 
+    tasksTable.innerHTML = ''; // Clear previous tasks
 
-
-    tasksTable.innerHTML = '';  // Clear previous tasks
-
-    //  Prints the first date in the scheduleData array
-    console.log(week)
-    console.log(scheduleData[0].date.startsWith(week))
-    console.log(scheduleData[0].date)
-
+    let { startDate, endDate } = getWeekRange(week);
 
     scheduleData.forEach(task => {
-        if ( task.class === selectedClass) {
+        let taskDate = new Date(task.date);
+        if (taskDate >= startDate && taskDate <= endDate && task.class === selectedClass) {
             let row = tasksTable.insertRow();
             let cell1 = row.insertCell(0);
             let cell2 = row.insertCell(1);
