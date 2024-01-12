@@ -43,8 +43,12 @@ async function loadTasks() {
             let toggleCell = row.insertCell(0);
             let checkbox = document.createElement('input');
             checkbox.type = 'checkbox';
-            checkbox.className = 'task-toggle';
-            checkbox.id = 'task-' + task.task.replace(/\s+/g, '-').toLowerCase() + '-' + task.date;
+            let taskId = 'task-' + task.task.replace(/\s+/g, '-').toLowerCase() + '-' + task.date;
+            checkbox.id = taskId;
+            checkbox.checked = JSON.parse(localStorage.getItem(taskId) || 'false');
+            checkbox.addEventListener('change', () => {
+                localStorage.setItem(taskId, checkbox.checked);
+            });
             toggleCell.appendChild(checkbox);
 
             let taskCell = row.insertCell(1);
@@ -58,7 +62,6 @@ async function loadTasks() {
         }
     });
 }
-
 // ... rest of your JavaScript code ...
 
 
