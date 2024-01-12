@@ -1,4 +1,3 @@
-# STAT 252 
 Publish Weeks Module - Every Sunday - Immanuel - STAT 252
 Review/Edit Notes & Key  - Every Sunday - Immanuel - STAT 252
 Post Notes - Every Sunday - Immanuel - STAT 252 
@@ -51,22 +50,16 @@ Create midterms - Saturday  [3/16/2024] - Immanuel - STAT 331
 Verify projects steps every week - Every Saturday - Immanuel - STAT 331
 Create Videos for gathering data (Spotify, Sports, Census Demographics, or Finance) - Saturday  [1/20/2024] - Immanuel - STAT 331
 Post weekly Journal Quizzes - Every Saturday - Immanuel - STAT 331
-Grade Check-Ins (just check) - Every Sunday - Edward - STAT 331
+Grade Check Ins (just check) - Every Sunday - Edward - STAT 331
 Grade Labs (correctness) - Every Sunday - Edward - STAT 331
-Grade Practice Activities (just check)- Every Sunday - Edward - STAT 331
+Grade Practice Activities (just check) - Every Sunday - Edward - STAT 331
 Grade Journal Quizzes (just check) - Every Sunday - Edward - STAT 331
 Grade Midterms - Sunday [2/10/2024] - Immanuel  - STAT 331
 Grade Midterms - Sunday [3/2/2024] - Immanuel  - STAT 331
 Grade Midterms - Sunday [3/22/2024] - Immanuel  - STAT 331
 Grade Projects - Sunday [3/20/2024] - Immanuel  - STAT 331
-Make Notes for Shiny - [1/22/2024]  - Immanuel - STAT 331
-Make Notes for Shiny - [1/23/2024]  - Immanuel - STAT 331
-Make Notes for Shiny - [1/24/2024]  - Immanuel - STAT 331
-Make Notes for Shiny - [1/25/2024]  - Immanuel - STAT 331
-Make Notes for Shiny - [1/26/2024]  - Immanuel - STAT 331
-
-
-const sundays = ["2024-01-14", "2024-01-21", "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-18", "2024-02-25", "2024-03-03", "2024-03-10", "2024-03-17"];
-const saturdays = ["2024-01-13", "2024-01-20", "2024-01-27", "2024-02-03", "2024-02-10", "2024-02-17", "2024-02-24", "2024-03-02", "2024-03-09", "2024-03-16", "2024-03-23"];
-const tuesdays = ["2024-01-09", "2024-01-16", "2024-01-23", "2024-01-30", "2024-02-06", "2024-02-13", "2024-02-20", "2024-02-27", "2024-03-05", "2024-03-12", "2024-03-19"];
-const thursdays = ["2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21"];
+Make Notes for Shiny - Monday [1/22/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - Tuesday [1/23/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - Wednesday [1/24/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - Thursday [1/25/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - Friday [1/26/2024]  - Immanuel - STAT 331

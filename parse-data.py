@@ -1,6 +1,12 @@
 # Sample code to read and process a file with tasks
 import json
 
+
+sundays = ["2024-01-14", "2024-01-21", "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-18", "2024-02-25", "2024-03-03", "2024-03-10", "2024-03-17"]
+saturdays = ["2024-01-13", "2024-01-20", "2024-01-27", "2024-02-03", "2024-02-10", "2024-02-17", "2024-02-24", "2024-03-02", "2024-03-09", "2024-03-16", "2024-03-23"]
+tuesdays = ["2024-01-09", "2024-01-16", "2024-01-23", "2024-01-30", "2024-02-06", "2024-02-13", "2024-02-20", "2024-02-27", "2024-03-05", "2024-03-12", "2024-03-19"]
+thursdays = ["2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21"]
+
 def parse_line(line):
     parts = line.strip().split(" - ")
     if len(parts) != 4:
@@ -30,7 +36,7 @@ weekday_dates = {
 
 # Read the file and process each line
 tasks = []
-with open("tasks.txt", "r") as file:
+with open("STAT_Duties_brainstorm.md", "r") as file:
     for line in file:
         task_data = parse_line(line)
         dates = expand_dates(task_data["frequency"], weekday_dates)
@@ -44,4 +50,12 @@ with open("tasks.txt", "r") as file:
 
 # Convert to JSON
 json_data = json.dumps(tasks, indent=4)
-print(json_data)
+
+
+num_entries = len(tasks)
+print(f'Number of entries: {num_entries}')
+
+
+## Write to file
+with open("tasks-winter-2024.json", "w") as file:
+    file.write(json_data)
