@@ -37,7 +37,7 @@ async function loadTasks() {
 
     scheduleData.forEach(task => {
         let taskDate = new Date(task.date);
-        if (taskDate >= startDate && taskDate <= endDate && task.class === selectedClass) {
+        if (taskDate >= startDate && taskDate <= endDate && (selectedClass === 'all' || task.class === selectedClass)) {
             let row = tasksTable.insertRow();
 
             let toggleCell = row.insertCell(0);
@@ -62,7 +62,11 @@ async function loadTasks() {
         }
     });
 }
-// ... rest of your JavaScript code ...
+
+window.onload = async function () {
+    await loadTasks();
+};
+
 
 
 window.onload = async function () {
