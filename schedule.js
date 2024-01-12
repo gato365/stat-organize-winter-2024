@@ -39,15 +39,28 @@ async function loadTasks() {
         let taskDate = new Date(task.date);
         if (taskDate >= startDate && taskDate <= endDate && task.class === selectedClass) {
             let row = tasksTable.insertRow();
-            let cell1 = row.insertCell(0);
-            let cell2 = row.insertCell(1);
-            let cell3 = row.insertCell(2);
-            cell1.textContent = task.task;
-            cell2.textContent = task.date;
-            cell3.textContent = task.person;
+
+            let toggleCell = row.insertCell(0);
+            let checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.className = 'task-toggle';
+            checkbox.id = 'task-' + task.task.replace(/\s+/g, '-').toLowerCase() + '-' + task.date;
+            toggleCell.appendChild(checkbox);
+
+            let taskCell = row.insertCell(1);
+            taskCell.textContent = task.task;
+
+            let dateCell = row.insertCell(2);
+            dateCell.textContent = task.date;
+
+            let personCell = row.insertCell(3);
+            personCell.textContent = task.person;
         }
     });
 }
+
+// ... rest of your JavaScript code ...
+
 
 window.onload = async function () {
     await loadTasks();
