@@ -10,44 +10,43 @@ async function loadJSON(url) {
         return null;
     }
 }
-
 async function loadTasks() {
-    let scheduleData = await loadJSON('school_schedule.json'); // URL to your JSON file
+    let scheduleData = await loadJSON('tasks-winter-2024.json');
+
+
 
     if (!scheduleData) {
         console.error('Failed to load schedule data.');
         return;
     }
 
-    console.log('Schedule Data:', scheduleData); // Log the loaded data
-
     let week = document.getElementById('weekSelect').value;
     let selectedClass = document.getElementById('classSelect').value;
+    let tasksTable = document.getElementById('tasksTable').getElementsByTagName('tbody')[0];
 
-    console.log(`Loading tasks for ${selectedClass} on week ${week}`); // Log the class and week
 
-    let tasksContainer = document.getElementById('tasksContainer');
 
-    tasksContainer.innerHTML = '';  // Clear previous tasks
+    tasksTable.innerHTML = '';  // Clear previous tasks
 
-    let classSchedule = scheduleData[selectedClass];
-    if (!classSchedule) {
-        console.error(`No schedule data found for class ${selectedClass}`);
-        return;
-    }
+    //  Prints the first date in the scheduleData array
+    console.log(week)
+    console.log(scheduleData[0].date.startsWith(week))
+    console.log(scheduleData[0].date)
 
-    let tasks = classSchedule[week];
-    if (tasks) {
-        tasks.forEach(task => {
-            let taskElement = document.createElement('div');
-            taskElement.innerText = `${task.task} - ${task.person} (${task.date})`;
-            tasksContainer.appendChild(taskElement);
-        });
-    } else {
-        console.error(`No tasks found for class ${selectedClass} on week ${week}`);
-    }
+
+    scheduleData.forEach(task => {
+        if ( task.class === selectedClass) {
+            let row = tasksTable.insertRow();
+            let cell1 = row.insertCell(0);
+            let cell2 = row.insertCell(1);
+            let cell3 = row.insertCell(2);
+            cell1.textContent = task.task;
+            cell2.textContent = task.date;
+            cell3.textContent = task.person;
+        }
+    });
 }
 
-window.onload = async function() {
+window.onload = async function () {
     await loadTasks();
 };
