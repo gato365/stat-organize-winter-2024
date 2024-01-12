@@ -1,50 +1,53 @@
-// Load in school_schedule.json
-const fs = require('fs');
+async function loadJSON(url) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return await response.json();
+    } catch (error) {
+        console.error('Could not get JSON:', error);
+        return null;
+    }
+}
 
-let scheduleData; // Declare the variable
+async function loadTasks() {
+    let scheduleData = await loadJSON('school_schedule.json'); // URL to your JSON file
 
-fs.readFile('school_schedule.json', 'utf8', (err, data) => {
-    if (err) {
-        console.error('Error reading file:', err);
+    if (!scheduleData) {
+        console.error('Failed to load schedule data.');
         return;
     }
 
-    try {
-        scheduleData = JSON.parse(data); // Save the parsed JSON into the variable
-        console.log(scheduleData);
-    } catch (err) {
-        console.error('Error parsing JSON:', err);
-    }
-});
+    console.log('Schedule Data:', scheduleData); // Log the loaded data
 
-
-window.onload = function() {
-    loadWeeks();
-    loadTasks();
-};
-
-
-function loadWeeks() {
-    let weekSelect = document.getElementById('weekSelect');
-    Object.keys(scheduleData['STAT 252']).forEach(week => {
-        let option = document.createElement('option');
-        option.value = week;
-        option.text = week;
-        weekSelect.appendChild(option);
-    });
-}
-
-function loadTasks() {
     let week = document.getElementById('weekSelect').value;
     let selectedClass = document.getElementById('classSelect').value;
+
+    console.log(`Loading tasks for ${selectedClass} on week ${week}`); // Log the class and week
+
     let tasksContainer = document.getElementById('tasksContainer');
 
     tasksContainer.innerHTML = '';  // Clear previous tasks
 
-    let tasks = scheduleData[selectedClass][week];
-    tasks.forEach(task => {
-        let taskElement = document.createElement('div');
-        taskElement.innerText = `${task.task} - ${task.person} (${task.date})`;
-        tasksContainer.appendChild(taskElement);
-    });
+    let classSchedule = scheduleData[selectedClass];
+    if (!classSchedule) {
+        console.error(`No schedule data found for class ${selectedClass}`);
+        return;
+    }
+
+    let tasks = classSchedule[week];
+    if (tasks) {
+        tasks.forEach(task => {
+            let taskElement = document.createElement('div');
+            taskElement.innerText = `${task.task} - ${task.person} (${task.date})`;
+            tasksContainer.appendChild(taskElement);
+        });
+    } else {
+        console.error(`No tasks found for class ${selectedClass} on week ${week}`);
+    }
 }
+
+window.onload = async function() {
+    await loadTasks();
+};

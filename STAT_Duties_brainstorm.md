@@ -1,38 +1,72 @@
 # STAT 252 
-Publish Weeks Module - Sunday [Every] - Immanuel
-Review/Edit Notes & Key  - Sunday [Every] - Immanuel
-Post Notes - Sunday [Every] - Immanuel 
-Post Notes Key - Sunday [Every] - Immanuel
-Print Notes - Sunday [Every] - Immanuel
-Review/Edit Tuesday quiz - Sunday [Every] - Immanuel
-Post Tuesday Quiz - Sunday [Every] - Immanuel
-Review/Edit Homework - Sunday [Every] - Immanuel 
-Post Homework - Sunday [Every] - Immanuel 
-Create Lab -  [1/15, 1/28, 2/11, 2/25, 3/10] - Immanuel
-Create Lab Videos -  [1/15, 1/28, 2/11, 2/25, 3/10] - Immanuel
-Post Lab Videos & Lab - [1/16, 1/29, 2/12, 2/26, 3/11]
-Review/Edit Tuesday quiz - Sunday [Every] - Immanuel 
-Post Tuesday Quiz - Sunday [Every] - Immanuel  
-Review/Edit Friday/Thur quiz - Sunday [Every] - Immanuel 
-Post Friday/Thur Quiz - Sunday [Every] - Immanuel  
-Send Rubrics to graders - Tuesday [Every] - Immanuel 
-Review/Edit Quiz Answers - Sunday [Every] - Immanuel 
-Post Quiz Answers - Tuesday [Every] - Immanuel 
-Grade Homework - Thursday [Every] - Kaydee & Allen
-Grade Friday Quiz - Thursday [1/18, 1/25, 2/08, 2/22, 3/7, 3/21] - Kaydee & Allen
-Grade Thursday Quiz - Thursday [2/1, 2/15, 2/29, 3/14] - Immanuel
+Publish Weeks Module - Every Sunday - Immanuel - STAT 252
+Review/Edit Notes & Key  - Every Sunday - Immanuel - STAT 252
+Post Notes - Every Sunday - Immanuel - STAT 252 
+Post Notes Key - Every Sunday - Immanuel - STAT 252
+Print Notes - Every Sunday - Immanuel - STAT 252
+Review/Edit Tuesday quiz - Every Sunday - Immanuel - STAT 252
+Post Tuesday Quiz - Every Sunday - Immanuel - STAT 252
+Review/Edit Homework - Every Sunday - Immanuel  - STAT 252
+Post Homework - Every Sunday - Immanuel  - STAT 252
+Create Lab -  Monday [1/15/2024] - Immanuel - STAT 252
+Create Lab -  Sunday [1/28/2024] - Immanuel - STAT 252
+Create Lab -  Sunday [2/11/2024] - Immanuel - STAT 252
+Create Lab -  Sunday [2/25/2024] - Immanuel - STAT 252
+Create Lab -  Sunday [3/10/2024] - Immanuel - STAT 252
+Create Lab Videos -  Monday [1/15/2024] - Immanuel - STAT 252
+Create Lab Videos -  Sunday [1/28/2024] - Immanuel - STAT 252
+Create Lab Videos -  Sunday [2/11/2024] - Immanuel - STAT 252
+Create Lab Videos -  Sunday [2/25/2024] - Immanuel - STAT 252
+Create Lab Videos -  Sunday [3/10/2024] - Immanuel - STAT 252
+Post Lab Videos & Lab -  Tuesday [1/16/2024] - Immanuel - STAT 252
+Post Lab Videos & Lab -  Monday [1/29/2024] - Immanuel - STAT 252
+Post Lab Videos & Lab -  Monday [2/12/2024] - Immanuel - STAT 252 
+Post Lab Videos & Lab -  Monday [2/26/2024] - Immanuel - STAT 252
+Post Lab Videos & Lab -  Monday [3/11/2024] - Immanuel - STAT 252 
+Review/Edit Tuesday quiz - Every Sunday - Immanuel  - STAT 252
+Post Tuesday Quiz - Every Sunday - Immanuel   - STAT 252
+Review/Edit Friday/Thur quiz - Every Sunday - Immanuel  - STAT 252
+Post Friday/Thur Quiz - Every Sunday - Immanuel  - STAT 252 
+Send Rubrics to graders - Every Tuesday - Immanuel  - STAT 252
+Review/Edit Quiz Answers - Every Sunday - Immanuel  - STAT 252
+Post Quiz Answers - Every Tuesday - Immanuel  - STAT 252
+Grade Homework - Every Thursday  - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [1/18/2024] - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [1/25/2024] - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [2/08/2024] - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [2/22/2024] - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [3/07/2024] - Kaydee & Allen - STAT 252
+Grade Friday Quiz - Thursday [3/21/2024] - Kaydee & Allen - STAT 252
+Grade Thursday Quiz - Thursday [2/1/2024] - Immanuel - STAT 252
+Grade Thursday Quiz - Thursday [2/15/2024] - Immanuel - STAT 252
+Grade Thursday Quiz - Thursday [2/29/2024] - Immanuel - STAT 252
+Grade Thursday Quiz - Thursday [3/14/2024] - Immanuel - STAT 252
+Skim Textbook - Every Saturday - Immanuel - STAT 331
+Evaluate Checkin - Every Saturday - Immanuel - STAT 331
+Complete Practice Activities - Every Saturday - Immanuel - STAT 331
+Complete Labs - Every Saturday - Immanuel - STAT 331
+Create midterms - Saturday  [1/27/2024] - Immanuel - STAT 331
+Create midterms - Saturday  [2/24/2024] - Immanuel - STAT 331
+Create midterms - Saturday  [3/16/2024] - Immanuel - STAT 331
+Verify projects steps every week - Every Saturday - Immanuel - STAT 331
+Create Videos for gathering data (Spotify, Sports, Census Demographics, or Finance) - Saturday  [1/20/2024] - Immanuel - STAT 331
+Post weekly Journal Quizzes - Every Saturday - Immanuel - STAT 331
+Grade Check-Ins (just check) - Every Sunday - Edward - STAT 331
+Grade Labs (correctness) - Every Sunday - Edward - STAT 331
+Grade Practice Activities (just check)- Every Sunday - Edward - STAT 331
+Grade Journal Quizzes (just check) - Every Sunday - Edward - STAT 331
+Grade Midterms - Sunday [2/10/2024] - Immanuel  - STAT 331
+Grade Midterms - Sunday [3/2/2024] - Immanuel  - STAT 331
+Grade Midterms - Sunday [3/22/2024] - Immanuel  - STAT 331
+Grade Projects - Sunday [3/20/2024] - Immanuel  - STAT 331
+Make Notes for Shiny - [1/22/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - [1/23/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - [1/24/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - [1/25/2024]  - Immanuel - STAT 331
+Make Notes for Shiny - [1/26/2024]  - Immanuel - STAT 331
 
-# STAT 331
-Skim Textbook - Saturday [Every] - Immanuel
-Evaluate Checkin - Saturday [Every] - Immanuel
-Complete Practice Activities - Saturday [Every] - Immanuel
-Complete Labs - Saturday [Every] - Immanuel
-Create midterms - Saturday  [1/27, 2/24, 3/16] - Immanuel
-Verify projects steps every week - Saturday [Every] - Immanuelv
-Create Videos for gathering data (Spotify, Sports, Census Demographics, or Finance) - Saturday  [1/20] - Immanuel
-Post weekly Journal Quizzes - Saturday [Every] - Immanuel
-Grade Check-Ins - Sunday [Every] - Edward
-Grade Labs - Sunday [Every] - Edward
-Grade Midterms - Sunday [2/10, 3/2, 3/22] - Immanuel
-Grade Projects - Sunday [3/20] - Immanuel
-Make Notes for Shiny - [1/22, 1/23, 1/24, 1/25, 1/26]  - Immanuel
+
+const sundays = ["2024-01-14", "2024-01-21", "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-18", "2024-02-25", "2024-03-03", "2024-03-10", "2024-03-17"];
+const saturdays = ["2024-01-13", "2024-01-20", "2024-01-27", "2024-02-03", "2024-02-10", "2024-02-17", "2024-02-24", "2024-03-02", "2024-03-09", "2024-03-16", "2024-03-23"];
+const tuesdays = ["2024-01-09", "2024-01-16", "2024-01-23", "2024-01-30", "2024-02-06", "2024-02-13", "2024-02-20", "2024-02-27", "2024-03-05", "2024-03-12", "2024-03-19"];
+const thursdays = ["2024-01-11", "2024-01-18", "2024-01-25", "2024-02-01", "2024-02-08", "2024-02-15", "2024-02-22", "2024-02-29", "2024-03-07", "2024-03-14", "2024-03-21"];
