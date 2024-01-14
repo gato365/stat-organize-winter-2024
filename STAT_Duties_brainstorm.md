@@ -40,7 +40,9 @@ Grade Thursday Quiz - Thursday [2/1/2024] - Immanuel - STAT 252
 Grade Thursday Quiz - Thursday [2/15/2024] - Immanuel - STAT 252
 Grade Thursday Quiz - Thursday [2/29/2024] - Immanuel - STAT 252
 Grade Thursday Quiz - Thursday [3/14/2024] - Immanuel - STAT 252
-Skim Textbook - Every Saturday - Immanuel - STAT 331
+Skim/Edit Textbook - Every Saturday - Immanuel - STAT 331
+Edit Lecturer Notes with my information - Every Saturday - Immanuel - STAT 331
+Publish Weeks Module - Every Saturday - Immanuel - STAT 331
 Evaluate Checkin - Every Saturday - Immanuel - STAT 331
 Complete Practice Activities - Every Saturday - Immanuel - STAT 331
 Complete Labs - Every Saturday - Immanuel - STAT 331
