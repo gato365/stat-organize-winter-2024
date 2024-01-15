@@ -30,6 +30,7 @@ Post Friday/Thur Quiz - Every Sunday - Immanuel  - STAT 252
 Send Rubrics to graders - Every Tuesday - Immanuel  - STAT 252
 Review/Edit Quiz Answers - Every Sunday - Immanuel  - STAT 252
 Post Quiz Answers - Every Tuesday - Immanuel  - STAT 252
+Give DRC accomodations - Every Sunday - Immanuel  - STAT 252
 Grade Homework - Every Thursday  - Kaydee & Allen - STAT 252
 Grade Friday Quiz - Thursday [1/18/2024] - Kaydee & Allen - STAT 252
 Grade Friday Quiz - Thursday [1/25/2024] - Kaydee & Allen - STAT 252
