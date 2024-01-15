@@ -1,5 +1,7 @@
 # Sample code to read and process a file with tasks
 import json
+import re
+from datetime import datetime
 
 
 sundays = ["2024-01-14", "2024-01-21", "2024-01-28", "2024-02-04", "2024-02-11", "2024-02-18", "2024-02-25", "2024-03-03", "2024-03-10", "2024-03-17"]
@@ -39,14 +41,31 @@ tasks = []
 with open("STAT_Duties_brainstorm.md", "r") as file:
     for line in file:
         task_data = parse_line(line)
+        
         dates = expand_dates(task_data["frequency"], weekday_dates)
-        for date in dates:
-            tasks.append({
+        if dates:  # Check if dates is not empty
+            for date in dates:
+                tasks.append({
+                    "task": task_data["task"],
+                    "date": date,
+                    "person": task_data["person"],
+                    "class": task_data["class"]
+                })
+        else:  # If dates is empty
+            # Extract date from task description
+            match = re.search(r'\[(.*?)\]', task_data["frequency"])
+            if match:
+                date_str = match.group(1)
+                # Convert date to "YYYY-MM-DD" format
+                date = datetime.strptime(date_str, "%m/%d/%Y").strftime("%Y-%m-%d")
+                tasks.append({
                 "task": task_data["task"],
-                "date": date,
+                "date": date,  # Set date to extracted date
                 "person": task_data["person"],
                 "class": task_data["class"]
-            })
+                })
+            else:
+                raise ValueError(f"Invalid line format: {line}")
 
 # Convert to JSON
 json_data = json.dumps(tasks, indent=4)

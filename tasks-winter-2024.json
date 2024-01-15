@@ -1,5 +1,11 @@
 [
     {
+        "task": "Determine teams for Final Project",
+        "date": "2024-01-20",
+        "person": "Immanuel ",
+        "class": "STAT 331"
+    },
+    {
         "task": "Publish Weeks Module",
         "date": "2024-01-14",
         "person": "Immanuel",
@@ -537,6 +543,96 @@
         "task": "Post Homework",
         "date": "2024-03-17",
         "person": "Immanuel ",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab",
+        "date": "2024-01-15",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab",
+        "date": "2024-01-28",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab",
+        "date": "2024-02-11",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab",
+        "date": "2024-02-25",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab",
+        "date": "2024-03-10",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab Videos",
+        "date": "2024-01-15",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab Videos",
+        "date": "2024-01-28",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab Videos",
+        "date": "2024-02-11",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab Videos",
+        "date": "2024-02-25",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Create Lab Videos",
+        "date": "2024-03-10",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Post Lab Videos & Lab",
+        "date": "2024-01-16",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Post Lab Videos & Lab",
+        "date": "2024-01-29",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Post Lab Videos & Lab",
+        "date": "2024-02-12",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Post Lab Videos & Lab",
+        "date": "2024-02-26",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Post Lab Videos & Lab",
+        "date": "2024-03-11",
+        "person": "Immanuel",
         "class": "STAT 252"
     },
     {
@@ -1038,6 +1134,66 @@
         "class": "STAT 252"
     },
     {
+        "task": "Grade Friday Quiz",
+        "date": "2024-01-18",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Friday Quiz",
+        "date": "2024-01-25",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Friday Quiz",
+        "date": "2024-02-08",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Friday Quiz",
+        "date": "2024-02-22",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Friday Quiz",
+        "date": "2024-03-07",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Friday Quiz",
+        "date": "2024-03-21",
+        "person": "Kaydee & Allen",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Thursday Quiz",
+        "date": "2024-02-01",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Thursday Quiz",
+        "date": "2024-02-15",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Thursday Quiz",
+        "date": "2024-02-29",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
+        "task": "Grade Thursday Quiz",
+        "date": "2024-03-14",
+        "person": "Immanuel",
+        "class": "STAT 252"
+    },
+    {
         "task": "Skim/Edit Textbook",
         "date": "2024-01-13",
         "person": "Immanuel",
@@ -1104,133 +1260,67 @@
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-01-13",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-01-20",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-01-27",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-02-03",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-02-10",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-02-17",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-02-24",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-03-02",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-03-09",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-03-16",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Edit Lecturer Notes with my information",
-        "date": "2024-03-23",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-01-13",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-01-20",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-01-27",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-02-03",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-02-10",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-02-17",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-02-24",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-03-02",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-03-09",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
-        "date": "2024-03-16",
-        "person": "Immanuel",
-        "class": "STAT 331"
-    },
-    {
-        "task": "Publish Weeks Module",
+        "task": "Edit Lecturer Notes (slides) with my information",
         "date": "2024-03-23",
         "person": "Immanuel",
         "class": "STAT 331"
@@ -1434,68 +1524,158 @@
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-01-13",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-01-20",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-01-27",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-02-03",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-02-10",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-02-17",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-02-24",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-03-02",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-03-09",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-03-16",
         "person": "Immanuel",
         "class": "STAT 331"
     },
     {
-        "task": "Verify projects steps every week",
+        "task": "Publish Weeks Module",
         "date": "2024-03-23",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Create midterms",
+        "date": "2024-01-27",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Create midterms",
+        "date": "2024-02-24",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Create midterms",
+        "date": "2024-03-16",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-01-13",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-01-20",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-01-27",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-02-03",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-02-10",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-02-17",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-02-24",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-03-02",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-03-09",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-03-16",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Verify & Email projects steps to students",
+        "date": "2024-03-23",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Create Videos for gathering data (Spotify, Sports, Census Demographics, or Finance)",
+        "date": "2024-01-20",
         "person": "Immanuel",
         "class": "STAT 331"
     },
@@ -1803,6 +1983,60 @@
         "task": "Grade Journal Quizzes (just check)",
         "date": "2024-03-17",
         "person": "Edward",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Grade Midterms",
+        "date": "2024-02-10",
+        "person": "Immanuel ",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Grade Midterms",
+        "date": "2024-03-02",
+        "person": "Immanuel ",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Grade Midterms",
+        "date": "2024-03-22",
+        "person": "Immanuel ",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Grade Projects",
+        "date": "2024-03-20",
+        "person": "Immanuel ",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Make Notes for Shiny",
+        "date": "2024-01-22",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Make Notes for Shiny",
+        "date": "2024-01-23",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Make Notes for Shiny",
+        "date": "2024-01-24",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Make Notes for Shiny",
+        "date": "2024-01-25",
+        "person": "Immanuel",
+        "class": "STAT 331"
+    },
+    {
+        "task": "Make Notes for Shiny",
+        "date": "2024-01-26",
+        "person": "Immanuel",
         "class": "STAT 331"
     }
 ]

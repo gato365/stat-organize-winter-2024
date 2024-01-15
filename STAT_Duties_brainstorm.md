@@ -1,3 +1,4 @@
+Determine teams for Final Project - Saturday [1/20/2024] - Immanuel  - STAT 331
 Publish Weeks Module - Every Sunday - Immanuel - STAT 252
 Review/Edit Notes & Key  - Every Sunday - Immanuel - STAT 252
 Post Notes - Every Sunday - Immanuel - STAT 252 
@@ -41,15 +42,15 @@ Grade Thursday Quiz - Thursday [2/15/2024] - Immanuel - STAT 252
 Grade Thursday Quiz - Thursday [2/29/2024] - Immanuel - STAT 252
 Grade Thursday Quiz - Thursday [3/14/2024] - Immanuel - STAT 252
 Skim/Edit Textbook - Every Saturday - Immanuel - STAT 331
-Edit Lecturer Notes with my information - Every Saturday - Immanuel - STAT 331
-Publish Weeks Module - Every Saturday - Immanuel - STAT 331
+Edit Lecturer Notes (slides) with my information - Every Saturday - Immanuel - STAT 331
 Evaluate Checkin - Every Saturday - Immanuel - STAT 331
 Complete Practice Activities - Every Saturday - Immanuel - STAT 331
 Complete Labs - Every Saturday - Immanuel - STAT 331
+Publish Weeks Module - Every Saturday - Immanuel - STAT 331
 Create midterms - Saturday  [1/27/2024] - Immanuel - STAT 331
 Create midterms - Saturday  [2/24/2024] - Immanuel - STAT 331
 Create midterms - Saturday  [3/16/2024] - Immanuel - STAT 331
-Verify projects steps every week - Every Saturday - Immanuel - STAT 331
+Verify & Email projects steps to students - Every Saturday - Immanuel - STAT 331
 Create Videos for gathering data (Spotify, Sports, Census Demographics, or Finance) - Saturday  [1/20/2024] - Immanuel - STAT 331
 Post weekly Journal Quizzes - Every Saturday - Immanuel - STAT 331
 Grade Check Ins (just check) - Every Sunday - Edward - STAT 331
